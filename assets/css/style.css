@@ -78,7 +78,7 @@ h6 {
 #header .profile img {
   margin: 15px auto;
   display: block;
-  width: 120px;
+  width: 100px;
   border: 8px solid #2c2f3f;
 }
 
@@ -362,8 +362,8 @@ section {
 }
 
 .about .img-fluid{
-  height: 420px;
-  padding-left: 20px;
+  height: 380px;
+  padding-left: 15px;
 }
 
 /*--------------------------------------------------------------
